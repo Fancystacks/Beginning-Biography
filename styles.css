@@ -81,3 +81,11 @@ h2 {
     font-size: 17px;
     right: -40px;
   }
+
+a:hover {
+    color: navy;
+  }
+
+  a:focus {
+    color: black;
+  }
