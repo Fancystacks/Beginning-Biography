@@ -44,7 +44,7 @@ h2 {
     color: #ffffff;
     font-size: 10px;
     text-align: center;
-    width: 980px;
+    width: 100%;
     border-top: 8px solid #4aaaa5;
     position: fixed;
     bottom: 0;      
@@ -75,8 +75,7 @@ h2 {
       width: 230px;
       height: 230px;
       float: left;
-      vertical-align:middle;
-      border: 3px solid teal;
+      /* border: 3px solid teal; */
       padding-bottom: -40px;
       background-color: white;
   }
@@ -117,7 +116,7 @@ h2 {
     width: 230px;
     height: 230px;
     float: right;
-    border: 3px solid teal;
+    /* border: 3px solid teal; */
     padding-bottom: -40px;
     background-color: white;
 }
